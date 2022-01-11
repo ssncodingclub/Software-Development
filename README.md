@@ -1,4 +1,4 @@
-# Software Development @ SSN Coding Club
+# 💻Software Development @ SSN Coding Club
 
 This repository contains all resources and code used in the Coding Club Software Dev sessions. This will be updated periodically. The resources for each meet can be found in their respective folders.
 
